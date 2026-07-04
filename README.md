@@ -1,5 +1,5 @@
-<h1 align="center">👋 @91CDs 👋 :philippines:</h1>
-<p align="center">totally certified <s>masochist</s> programmer</p>
+<h1 align="center">👋 Carl 👋</h1>
+<p align="center">i make stuff</p>
 <div align="center">
     <img height="20px" src="https://img.shields.io/badge/-C%23-512BD4?logo=C%23&logoColor=white">
     <img height="20px" src="https://img.shields.io/badge/-Vuejs-4FC08D?logo=Vue.js&logoColor=white">
